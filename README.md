@@ -1,3 +1,6 @@
+This is a small prototype to show how to provide the [clingo](https://potassco.org/clingo) API using [JNA](https://github.com/java-native-access/jna).
+Check out [jclingo](https://github.com/kherud/jclingo) for a full-featured clingo Java API.
+
 # Small example to use clingo with JNA
 
 ```bash
